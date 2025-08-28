@@ -8,7 +8,7 @@ This repository documents the complete concept for a universal AI subscription p
 
 ## 📋 Repository Contents
 
-TBA 
+[PiggyAI disclosure](https://github.com/aRcHmaGe333/PiggyAI/blob/main/piggyai_public_disclosure_for_prior_art.md) - Complete platform specification and prior art disclosure
 
 ## 🎯 Core Concept
 
