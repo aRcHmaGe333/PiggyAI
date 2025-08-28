@@ -60,3 +60,15 @@ All concepts, methods, and systems described in this repository constitute prior
 ---
 
 *Document created: August 28, 2025, 4:37 PM CEST (Stockholm)*
+
+IMPLEMENTATION DISCLAIMER & RIGHTS RESERVATION
+
+While this document discloses the complete PiggyAI concept for prior art purposes, individual components, features, and implementation methods described herein remain subject to separate intellectual property protection.
+
+Partial implementation of any subset of these systems - including but not limited to: credit routing algorithms, cross-platform analytics engines, viral invitation mechanics, smart AI model selection, or provider integration architectures - does not constitute fair use of the disclosed concepts.
+
+All rights to implement, commercialize, or create derivative works based on any portion of this specification remain exclusively reserved to the original discloser.
+
+This disclosure establishes prior art to prevent third-party patents while maintaining full commercial implementation rights.
+
+© 2025 [Your Name]. All Rights Reserved.
